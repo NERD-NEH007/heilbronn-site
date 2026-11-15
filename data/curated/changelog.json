@@ -163,6 +163,10 @@
   {
    "date": "2026-08-22",
    "text": "coordinates identified as exact rationals on a 1/56 grid (value exactly 43/784); replaces the reconstruction (this site)"
+  },
+  {
+   "date": "2026-11-15",
+   "text": "computer-assisted proof of optimality posted by Ethan Hendren: a minimum-enclosing-triangle normalization to eight contact families, an exact cell-graph search and exactly checked LP certificates, with a certified local basin, show the value 43/784 with the known configuration unique up to symmetry; AI-assisted and not yet independently verified"
   }
  ],
  "convex/5": [
